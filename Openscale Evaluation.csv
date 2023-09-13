@@ -1,0 +1,31 @@
+﻿VIRTUAL_MASTER_HR_DATA_STATUS,TITLE,VIRTUAL_MASTER_HR_DATA_DEPARTMENT,FUNCTION,DIVISION,UNION_STATUS,EMPLOYMENT_CATEGORY,AGE,GENERATION,GENDER,ETHNIC_ORIGIN,LAST_PERFORMANCE_RATING,LAST_POTENTIAL_RATING,EMPLOYEE_PAY_FREQUENCY,EXEMPTTF,EMPLOYEE_PAY_BASIS,MANAGER_ID
+Active,Laborer,Operations-West,Operations,Product,Non-Union,Regular Employee PT,36,Generation X,Male,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S2806
+Active,Account Manager,Sales-East,Sales,Sales,Non-Union,Regular Employee FT,52,Boomer,Male,W,Successfully Meets Expectations,Not assigned,Monthly,T,Salary,S5377
+Active,Driver,Operations-East,Operations,Product,Union,Regular Employee FT,35,Generation X,Male,W,No Rating,No Rating,Bi-Weekly,F,Daily,S115
+Active,Driver,Operations-West,Operations,Product,Non-Union,Regular Employee FT,37,Generation X,Male,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Daily,S534
+Active,Account Manager,Sales-East,Sales,Sales,Non-Union,Regular Employee FT,58,Boomer,Male,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,T,Salary,S4575
+Active,Laborer,Operations-West,Operations,Product,Union,Regular Employee FT,32,Generation X,Male,B,No Rating,No Rating,Bi-Weekly,F,Hourly,S3009
+Active,Sales Representative,Customer Service,Customer Care,Customer Care,Non-Union,Regular Employee FT,32,Generation X,Male,H,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S2875
+Active,Customer Service Representative,Customer Service,Customer Care,Customer Care,Non-Union,Regular Employee FT,38,Generation X,Male,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S2944
+Active,Driver,Operations-East,Operations,Product,Non-Union,Regular Employee FT,44,Generation X,Male,H,Meets & Exceeds,Not assigned,Bi-Weekly,F,Daily,S60
+Active,Driver,Operations-West,Operations,Product,Non-Union,Regular Employee FT,31,Generation Y,Male,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Daily,S27
+Active,Driver,Sales-Central,Sales,Sales,Union,Regular Employee FT,55,Boomer,Male,W,No Rating,No Rating,Bi-Weekly,F,Daily,S49
+Active,Materials Handler,Factory-East,Manufacturing,Product,Non-Union,Regular Employee FT,33,Generation X,Male,W,No Rating,No Rating,Weekly,F,Hourly,S3965
+Terminated,Laborer,Operations-East,Operations,Product,Union,Regular Employee PT,22,Generation Y,Male,B,No Rating,No Rating,Bi-Weekly,F,Hourly,S1220
+Terminated,Forklift Driver,Operations-East,Operations,Product,Union,Regular Employee FT,62,Boomer,Male,B,No Rating,No Rating,Bi-Weekly,F,Hourly,S1078
+Active,Director,Sales-West,Sales,Sales,Non-Union,Regular Employee FT,51,Boomer,Male,W,Meets & Exceeds,Top Talent,Monthly,T,Salary,S2260
+Active,Driver,Operations-West,Operations,Product,Non-Union,Regular Employee FT,43,Generation X,Male,W,Exceeds,Not assigned,Bi-Weekly,F,Daily,S281
+Terminated,Merchandiser,Sales-Central,Sales,Sales,Non-Union,Regular Employee PT,44,Generation X,Female,H,No Rating,No Rating,Bi-Weekly,F,Hourly,S166
+Active,Technician,Factory-East,Manufacturing,Product,Union,Regular Employee FT,33,Generation X,Female,B,No Rating,No Rating,Weekly,F,Hourly,S3327
+Active,Director,Sales-East,Sales,Sales,Non-Union,Regular Employee FT,49,Generation X,Male,W,Successfully Meets Expectations,Strong Contributor,Semi-Mont,T,Salary,S2495
+Active,Merchandiser,Sales-West,Sales,Sales,Union,Regular Employee FT,24,Generation Y,Male,W,No Rating,No Rating,Bi-Weekly,F,Hourly,S2252
+Active,Laborer,Operations-West,Operations,Product,Non-Union,Regular Employee FT,28,Generation Y,Male,B,No Rating,No Rating,Bi-Weekly,F,Hourly,S1091
+Active,Merchandiser,Sales-Central,Sales,Sales,Union,Regular Employee PT,21,Generation Y,Male,W,No Rating,No Rating,Bi-Weekly,F,Hourly,S2550
+Active,Administrator,Finance,Finance & IT,Corporate,Non-Union,Regular Employee FT,60,Boomer,Female,B,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S1575
+Active,Technician,Customer Service,Customer Care,Customer Care,Non-Union,Regular Employee FT,59,Boomer,Male,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S1084
+Active,Laborer,Factory-Central,Manufacturing,Product,Union,Regular Employee FT,46,Generation X,Female,W,No Rating,No Rating,Weekly,F,Hourly,S3921
+Active,Director,Finance,Finance & IT,Corporate,Non-Union,Regular Employee FT,45,Generation X,Male,W,Successfully Meets Expectations,Strong Contributor,Monthly,T,Salary,S4236
+Active,Driver,Operations-East,Operations,Product,Non-Union,Regular Employee FT,41,Generation X,Male,W,No Rating,No Rating,Bi-Weekly,F,Hourly,S743
+Active,Merchandiser,Sales-East,Sales,Sales,Union,Regular Employee FT,60,Boomer,Male,H,No Rating,No Rating,Weekly,F,Hourly,S3655
+Active,Technician,Customer Service,Customer Care,Customer Care,Non-Union,Regular Employee FT,47,Generation X,Male,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S1264
+Active,Driver,Operations-East,Operations,Product,Non-Union,Regular Employee FT,38,Generation X,Male,W,Successfully Meets Expectations,Not assigned,Bi-Weekly,F,Hourly,S665
